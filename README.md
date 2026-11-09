@@ -1,4 +1,4 @@
-# secode-zhanggui（掌柜智库）
+# agent-single
 
 基于 LangChain / LangGraph + DeepSeek 的**元数据知识库**问答项目：把业务数仓的表结构、字段含义、同义词别名沉淀成可检索的知识库，让自然语言问题能准确落到表和字段上。
 
